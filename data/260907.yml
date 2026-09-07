@@ -5,13 +5,13 @@ about:
   head: 81328b6
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T06:14:29Z
+  collectedAt: 2026-09-07T18:19:10Z
 timeline:
   created: 2023-03-11
   lastCommit: 2024-06-22
   lastRelease: 
 popularity:
-  star: 33345
+  star: 33343
   watcher: 269
   fork: 9421
   release: 0
@@ -83,7 +83,7 @@ total:
   commit: 209
 ---
 path: /home/runner/.x-repo/github.com/mckaywrigley/chatbot-ui
-collectedAt: 2026-09-07T06:14:30Z
+collectedAt: 2026-09-07T18:19:11Z
 loc:
   Json:
     code: 19214
@@ -134,7 +134,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:14:31+00:00
+  collectedAt: 2026-09-07T18:19:12+00:00
   platform:
     darwin/arm64:
       name:  null
