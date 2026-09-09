@@ -7,7 +7,7 @@ AI chat for any model.
 - **Latest release**: `` (n/a)
 - **Last commit**: 2024-06-22
 - **License**: MIT
-- **Stars**: 33346 · **Forks**: 9418 · **Open issues**: 1013 · **Contributors**: 120
+- **Stars**: 33343 · **Forks**: 9416 · **Open issues**: 1013 · **Contributors**: 120
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/chatbot-ui> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:15:37Z._
+_Last regenerated: 2026-09-09T20:47:48Z._
