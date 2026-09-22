@@ -32,22 +32,22 @@ Total: **44,119** lines of code across **297** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,349 · **Forks**: 9,414 · **Open issues**: 1,013 · **Contributors**: 120
+- **Stars**: 33,348 · **Forks**: 9,414 · **Open issues**: 1,014 · **Contributors**: 120
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 281 · **Open PRs**: 47 · **Closed issues**: 818 · **Open issues**: 195 · **Commits**: 209
+- **Releases**: 0 · **Merged PRs**: 281 · **Open PRs**: 47 · **Closed issues**: 818 · **Open issues**: 196 · **Commits**: 209
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-06-23 | 0 | 0 | 0 | 2 | 4 | 0 |
-| last180d | 2026-03-25 | 0 | 0 | 1 | 3 | 9 | 0 |
-| 360d | 2025-09-26 | 0 | 0 | 3 | 3 | 16 | 0 |
-| last720d | 2024-10-01 | 0 | 0 | 21 | 7 | 54 | 0 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 4 | 0 |
+| 90d | 2026-06-24 | 0 | 0 | 0 | 2 | 5 | 0 |
+| last180d | 2026-03-26 | 0 | 0 | 1 | 3 | 10 | 0 |
+| 360d | 2025-09-27 | 0 | 0 | 3 | 3 | 17 | 0 |
+| last720d | 2024-10-02 | 0 | 0 | 21 | 7 | 53 | 0 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for chatbot-ui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:42:11Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:36:39Z._
