@@ -32,7 +32,7 @@ Total: **44,119** lines of code across **297** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,309 · **Forks**: 9,339 · **Open issues**: 1,019 · **Contributors**: 116
+- **Stars**: 33,311 · **Forks**: 9,338 · **Open issues**: 1,019 · **Contributors**: 116
 
 ## Totals (cumulative)
 
@@ -42,12 +42,12 @@ Total: **44,119** lines of code across **297** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 7 | 0 |
-| last180d | 2026-05-27 | 0 | 0 | 0 | 3 | 10 | 0 |
-| 360d | 2025-11-28 | 0 | 0 | 3 | 4 | 17 | 0 |
-| last720d | 2024-12-03 | 0 | 0 | 18 | 6 | 50 | 0 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 3 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 6 | 0 |
+| last180d | 2026-05-28 | 0 | 0 | 0 | 3 | 10 | 0 |
+| 360d | 2025-11-29 | 0 | 0 | 3 | 4 | 17 | 0 |
+| last720d | 2024-12-04 | 0 | 0 | 18 | 6 | 50 | 0 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for chatbot-ui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:46:37Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:05:37Z._
